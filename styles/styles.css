@@ -1,0 +1,109 @@
+/* Reset some default styles to ensure consistency */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #333;
+}
+
+/* Style the header and navigation bar */
+header {
+    background-color: #ffaa00; /* Orange header background */
+    color: #fff; /* White text color */
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .logo {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* White link color */
+}
+
+/* Style the hero section */
+#hero {
+    background-image: url('your-hero-image.jpg');
+    background-size: cover;
+    text-align: center;
+    color: #fff; /* White text color */
+    padding: 100px 0;
+}
+
+#hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #ffaa00; /* Change the text color to orange */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow for better contrast */
+}
+
+#hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #333; /* Change the text color to a dark shade (e.g., black or dark gray) for better visibility */
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #ffaa00; /* Orange button background */
+    color: #fff; /* White text color */
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #ff8800; /* Slightly darker orange on hover */
+}
+
+/* Style the other sections as needed */
+section {
+    background-color: #fff; /* White background */
+    padding: 50px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #ffaa00; /* Orange footer background */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+}
+
+/* Additional custom styles can be added here */

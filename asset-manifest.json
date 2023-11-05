@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3526bb6.css",
-    "main.js": "/static/js/main.e1fd329b.js",
+    "main.css": "/static/css/main.4b6999f8.css",
+    "main.js": "/static/js/main.60020c66.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/contactPageBg.png": "/static/media/contactPageBg.c568a90f48c062b87375.png",
     "static/media/loginPageBg.jpg": "/static/media/loginPageBg.ff63522436daac87e27d.jpg",
     "static/media/about us section bg.png": "/static/media/about us section bg.cf6228831522a4a2bd47.png",
     "static/media/event landing section bg.png": "/static/media/event landing section bg.7a379c86149954be4a90.png",
@@ -15,11 +14,12 @@
     "static/media/eventImg.png": "/static/media/eventImg.fee4194923b683c688d6.png",
     "static/media/goals achieved section img.png": "/static/media/goals achieved section img.b11948fee8eb1f79678a.png",
     "static/media/about us section img.png": "/static/media/about us section img.fe68b36918fe3ac4b0e6.png",
+    "static/media/contact-us-page-background.jpg": "/static/media/contact-us-page-background.002fbae7f049a8a68843.jpg",
+    "static/media/Happy.pdf": "/static/media/Happy.1300ebe5b5e911db02b9.pdf",
     "static/media/frame.png": "/static/media/frame.bc4ffae46169339e3260.png",
     "static/media/c logo 3.png": "/static/media/c logo 3.7e4e721b9a714a34ae1a.png",
     "static/media/volunteer-work-4.png": "/static/media/volunteer-work-4.8ed2e9b47d401364f8c7.png",
     "static/media/logo.png": "/static/media/logo.7fff66788ec91af47a31.png",
-    "static/media/qr-code.png": "/static/media/qr-code.31fb32f0a41e48829228.png",
     "static/media/c logo 2.png": "/static/media/c logo 2.9fca86bd1d6dca759012.png",
     "static/media/volunteer-work-2.png": "/static/media/volunteer-work-2.f83bf3ebdf0e3b2aac68.png",
     "static/media/pdf icon.png": "/static/media/pdf icon.02457ba5cba968de5236.png",
@@ -37,12 +37,12 @@
     "static/media/love-img.png": "/static/media/love-img.92008dbeeed6626dac22.png",
     "static/media/c logo 4.png": "/static/media/c logo 4.48ec4e59bbf469447223.png",
     "index.html": "/index.html",
-    "main.b3526bb6.css.map": "/static/css/main.b3526bb6.css.map",
-    "main.e1fd329b.js.map": "/static/js/main.e1fd329b.js.map",
+    "main.4b6999f8.css.map": "/static/css/main.4b6999f8.css.map",
+    "main.60020c66.js.map": "/static/js/main.60020c66.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3526bb6.css",
-    "static/js/main.e1fd329b.js"
+    "static/css/main.4b6999f8.css",
+    "static/js/main.60020c66.js"
   ]
 }
